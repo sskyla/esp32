@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026483227742",
+    "project_id": "testter-f4cde",
+    "storage_bucket": "testter-f4cde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026483227742:android:e2fa3b009a9c7ca006f8cf",
+        "android_client_info": {
+          "package_name": "com.example.tester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWqsTL1kFC9x2RBrZfh16I67ickmBWy7M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
